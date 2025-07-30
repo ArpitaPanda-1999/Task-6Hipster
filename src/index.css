@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply transition-all duration-300 ease-in-out;
+}
+
+/* REAL THEMES */
+html.theme1 {
+  --bg: #007bff;   /* blue */
+  --text: #ffffff; /* white */
+  --font: 'Inter', sans-serif;
+}
+
+html.theme2 {
+  --bg: #121212;   /* dark */
+  --text: #ffffff;
+  --font: 'Merriweather', serif;
+}
+
+html.theme3 {
+  --bg: #f97316;   /* orange-500 */
+  --text: #ffffff;
+  --font: 'Pacifico', cursive;
+}
