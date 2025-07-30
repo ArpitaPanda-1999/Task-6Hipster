@@ -12,7 +12,7 @@ export default function Header() {
     };
 
     return (
-        <header className="fixed top-0 left-0 w-full bg-white dark:bg-gray-900 text-black dark:text-white shadow z-50">
+        <header className="fixed top-0 left-0 w-full bg-white text-black shadow z-50">
             <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
                 <Link to="/" className="text-xl font-bold">MultiThemeApp</Link>
 
