@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+=======
+https://papaya-starship-52035c.netlify.app/
+
+<img width="1920" height="1080" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/d64011e3-d309-4965-b935-db1df21ec5ff" />
+
+
+<img width="1920" height="1080" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/96ee5b87-bc74-41ad-a70d-f29cd96135f6" />
+
+
+<img width="1920" height="1080" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/7505cd73-39fa-496d-823d-64d33d904074" />
+
+
+>>>>>>> b41e6888cea5442108d4584f73980381c8fa579b
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

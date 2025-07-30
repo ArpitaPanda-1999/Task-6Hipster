@@ -12,7 +12,10 @@
     "@types/react": "^19.1.9",
     "@types/react-dom": "^19.1.7",
     "axios": "^1.11.0",
+<<<<<<< HEAD
     "lucide-react": "^0.534.0",
+=======
+>>>>>>> b41e6888cea5442108d4584f73980381c8fa579b
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-router-dom": "^7.7.1",
