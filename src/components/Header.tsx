@@ -35,7 +35,7 @@ export default function Header() {
 
             {/* Mobile Navigation Panel */}
             {isOpen && (
-                <div className="md:hidden bg-white dark:bg-gray-900 px-6 pb-4 flex flex-col gap-4">
+                <div className="md:hidden bg-white px-6 pb-4 flex flex-col gap-4">
                     <Link to="/" onClick={() => setIsOpen(false)}>Home</Link>
                     <Link to="/about" onClick={() => setIsOpen(false)}>About</Link>
                     <Link to="/contact" onClick={() => setIsOpen(false)}>Contact</Link>
