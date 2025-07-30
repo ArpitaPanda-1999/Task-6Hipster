@@ -1,7 +1,6 @@
 import { useContext } from "react";
 import { ThemeContext } from "../context/ThemeContext";
 
-<<<<<<< HEAD
 export default function ThemeDropdown({ onChangeTheme }: any) {
 
     const { theme, setTheme } = useContext(ThemeContext);
@@ -15,13 +14,6 @@ export default function ThemeDropdown({ onChangeTheme }: any) {
         onChangeTheme?.();
     };
 
-
-=======
-export default function ThemeDropdown() {
-
-    const { theme, setTheme } = useContext(ThemeContext);
-
->>>>>>> b41e6888cea5442108d4584f73980381c8fa579b
     return (
         <>
             <label htmlFor="theme-select">Select Theme:</label>
